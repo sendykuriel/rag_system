@@ -27,7 +27,6 @@ Este proyecto proporciona un sistema RAG completo para hacer preguntas y obtener
 ├── docs/                    # Documentos fuente (PDFs, MDs)
 ├── docs_load_txt/           # Documentos procesados en formato TXT
 ├── chroma_db/               # Base de datos vectorial (ChromaDB)
-├── clases/                  # Material del curso
 └── pyproject.toml           # Configuración del proyecto
 ```
 
