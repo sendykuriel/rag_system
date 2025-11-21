@@ -1,0 +1,10 @@
+# Ignorar todo excepto lo que especificamos abajo
+*
+!.gitignore
+!README.md
+!informe.md
+!experimentos_rag.md
+!greenpeace_rag/
+!greenpeace_rag/**/*.py
+!greenpeace_rag/**/*.md
+!greenpeace_rag/**/__init__.py
