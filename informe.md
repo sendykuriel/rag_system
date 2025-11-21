@@ -305,7 +305,7 @@ Métricas (Exp. 23):
 - Groundness: 0.8966  
 - Retrieval relevance: 0.5402  
 
-Esta configuración es un **buen compromiso** entre correctitud, fundamentación y eficiencia del sistema, y puede ser preferible para un entorno productivo.
+Esta configuración es un **buen compromiso** entre correctitud, fundamentación y eficiencia del sistema.
 
 ---
 
